@@ -1,0 +1,32 @@
+##### TODO List
+
+**TODO: General**
+- [] Image Transformations:
+  - [] Mirror
+  - [] Image Subset + Padding
+  - [] Rotation
+  - [] Random Pixel Intensity
+  - [] Grayscale
+- [] Feature Extractions
+- [X] Shallow FFN
+- [] Shallow CNN
+  - [] Create Basic Version
+  - [] Optimize Stride
+  - [] Optimize Layers
+  - [] Choose Padding Solution
+  - [] Evaluate a Flattened Version
+- [] PCA on Feature Embeddings
+- [] Pytorch Implementation of Custom Architecture
+- [] Generative Adversarial Network
+- [] Ensemble Method
+- [] Plot and Analyze Misclassified Images
+- [] Convert tf.keras Model History Plot to Function.
+- [] Dataframe Flat Array to Image Array (H x W x C) Function
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
