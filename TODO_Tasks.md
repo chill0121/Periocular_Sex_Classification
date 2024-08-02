@@ -1,6 +1,5 @@
 ##### TODO List
 
-**TODO: General**
 - [] Image Transformations:
   - [] Mirror
   - [] Image Subset + Padding
