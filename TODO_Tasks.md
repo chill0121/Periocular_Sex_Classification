@@ -5,7 +5,7 @@
   - [] Image Subset + Padding
   - [] Rotation
   - [] Random Pixel Intensity
-  - [] Grayscale
+  - [] Grayscale (Would need to be a 3 channel solution?)
 - [] Feature Extractions
 - [X] Shallow FFN
 - [] Shallow CNN
