@@ -21,8 +21,8 @@
 - [] Plot and Analyze Misclassified Images
 - [] Convert tf.keras Model History Plot to Function.
 - [] Dataframe Flat Array to Image Array (H x W x C) Function
-- []
-- []
+- [] Re-Check Referenced Articles for Comparison Baseline Models
+- [] Implement SVM as a Baseline to Motivate Deep Learning
 - []
 - []
 - []
