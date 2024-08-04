@@ -15,7 +15,7 @@
   - [] Choose Padding Solution
   - [] Evaluate a Flattened Version
 - [] PCA on Feature Embeddings
-- [] Pytorch Implementation of Custom Architecture
+- [] Pytorch Implementation of TBD Custom Architecture
 - [] Generative Adversarial Network
 - [] Ensemble Method
 - [] Plot and Analyze Misclassified Images
