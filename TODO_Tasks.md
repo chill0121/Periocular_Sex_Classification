@@ -7,6 +7,7 @@
   - [] Random Pixel Intensity
   - [] Grayscale (Would need to be a 3 channel solution?)
 - [] Feature Extractions
+- [] Activation Maps from Weights
 - [X] Shallow FFN
 - [] Shallow CNN
   - [] Create Basic Version
