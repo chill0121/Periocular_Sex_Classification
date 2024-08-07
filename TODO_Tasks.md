@@ -15,7 +15,8 @@
   - [] Optimize Layers
   - [] Choose Padding Solution
   - [] Evaluate a Flattened Version
-- [] PCA on Feature Embeddings
+- [] PCA on Feature Embeddings or Semantic Clustering from Feature Vector on CNN
+- [] Occlusion Sensitivity Plots (Class Decision Regions)
 - [] Pytorch Implementation of TBD Custom Architecture
 - [] Generative Adversarial Network
 - [] Ensemble Method
