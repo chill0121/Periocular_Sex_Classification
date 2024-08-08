@@ -5,23 +5,23 @@
   - [] Image Subset + Padding
   - [] Rotation
   - [] Random Pixel Intensity
-  - [] Grayscale (Would need to be a 3 channel solution?)
+  - [X] Grayscale (Would need to be a 3 channel solution)
 - [] Feature Extractions
 - [] Activation Maps from Weights
 - [X] Shallow FFN
-- [] Shallow CNN
-  - [] Create Basic Version
-  - [] Optimize Stride
-  - [] Optimize Layers
-  - [] Choose Padding Solution
-  - [] Evaluate a Flattened Version
+- [X] Shallow CNN
+  - [X] Create Basic Version
+  - [X] Optimize Stride
+  - [X] Optimize Layers
+  - [X] Choose Padding Solution
 - [] PCA on Feature Embeddings or Semantic Clustering from Feature Vector on CNN
+  - [X] Proof of Concept
 - [] Occlusion Sensitivity Plots (Class Decision Regions)
 - [] Pytorch Implementation of TBD Custom Architecture
 - [] Generative Adversarial Network
 - [] Ensemble Method
 - [] Plot and Analyze Misclassified Images
-- [] Convert tf.keras Model History Plot to Function.
+- [X] Convert tf.keras Model History Plot to Function.
 - [] Dataframe Flat Array to Image Array (H x W x C) Function
 - [] Re-Check Referenced Articles for Comparison Baseline Models
 - [] Implement SVM as a Baseline to Motivate Deep Learning
