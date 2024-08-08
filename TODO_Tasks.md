@@ -26,7 +26,7 @@
 - [] Re-Check Referenced Articles for Comparison Baseline Models
 - [] Implement SVM as a Baseline to Motivate Deep Learning
 - [] Run a Fun Test Set
-- []
+- [] Probability Spectrum Plot with Images
 - []
 - []
 - []
