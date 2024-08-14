@@ -7,7 +7,7 @@
   - [] Random Pixel Intensity
   - [X] Grayscale (Would need to be a 3 channel solution)
 - [] Feature Extractions
-- [] Activation Maps from Weights
+- [X] Activation Maps from Weights
 - [X] Shallow FFN
 - [X] Shallow CNN
   - [X] Create Basic Version
@@ -22,7 +22,7 @@
 - [] Ensemble Method
 - [] Plot and Analyze Misclassified Images
 - [X] Convert tf.keras Model History Plot to Function.
-- [] Dataframe Flat Array to Image Array (H x W x C) Function
+- [X] Dataframe Flat Array to Image Array (H x W x C) Function
 - [] Re-Check Referenced Articles for Comparison Baseline Models
 - [] Implement SVM as a Baseline to Motivate Deep Learning
 - [] Run a Fun Test Set
