@@ -1,12 +1,12 @@
 ##### TODO List
 
 - [] Image Transformations:
-  - [] Mirror
-  - [] Image Subset + Padding
-  - [] Rotation
-  - [] Random Pixel Intensity
-  - [X] Grayscale (Would need to be a 3 channel solution)
-- [] Feature Extractions
+  - [X] Mirror
+  - [X] Image Subset + Padding
+  - [X] Rotation
+  - [X] Random Pixel Intensity
+  - [X] Brightness
+- [X] Feature Extractions
 - [X] Activation Maps from Weights
 - [X] Shallow FFN
 - [X] Shallow CNN
@@ -24,10 +24,9 @@
 - [X] Convert tf.keras Model History Plot to Function.
 - [X] Dataframe Flat Array to Image Array (H x W x C) Function
 - [] Re-Check Referenced Articles for Comparison Baseline Models
-- [] Implement SVM as a Baseline to Motivate Deep Learning
 - [] Run a Fun Test Set
 - [] Probability Spectrum Plot with Images
-- []
+- [] Plot average of each class?
 - []
 - []
 - []
