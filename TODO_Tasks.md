@@ -1,6 +1,6 @@
 ##### TODO List
 
-- [] Image Transformations:
+- [X] Image Transformations:
   - [X] Mirror
   - [X] Image Subset + Padding
   - [X] Rotation
@@ -14,13 +14,12 @@
   - [X] Optimize Stride
   - [X] Optimize Layers
   - [X] Choose Padding Solution
-- [] PCA on Feature Embeddings or Semantic Clustering from Feature Vector on CNN
+- [X] PCA on Feature Embeddings or Semantic Clustering from Feature Vector on CNN
   - [X] Proof of Concept
-- [] Occlusion Sensitivity Plots (Class Decision Regions)
-- [] Pytorch Implementation of TBD Custom Architecture
+- [X] Occlusion Sensitivity Plots (Class Decision Regions)
 - [] Generative Adversarial Network
 - [] Ensemble Method
-- [] Plot and Analyze Misclassified Images
+- [X] Plot and Analyze Misclassified Images
 - [X] Convert tf.keras Model History Plot to Function.
 - [X] Dataframe Flat Array to Image Array (H x W x C) Function
 - [] Re-Check Referenced Articles for Comparison Baseline Models
