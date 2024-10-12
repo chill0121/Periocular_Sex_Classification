@@ -1,3 +1,3 @@
 # Periocular Sex Classification
 
-Deep Learning methods applied to sex classification using periocular images.
+This project focuses on using an image dataset of eyes, which includes not only the iris but also the surrounding periocular region, to build Deep Convolutional Neural Network (DCNN) classifiers for identifying the sex of the individual in the image. A key aspect of the project is analyzing the image features extracted by the models to identify those most relevant for sex classification. Additionally, multiple DCNN architectures will be explored, with models trained on two versions of the dataset: one with the original images and another with randomly augmented images. The training and performance of these models will be compared to evaluate the impact of data augmentation.
