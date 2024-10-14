@@ -22,10 +22,7 @@
 - [X] Plot and Analyze Misclassified Images
 - [X] Convert tf.keras Model History Plot to Function.
 - [X] Dataframe Flat Array to Image Array (H x W x C) Function
-- [] Re-Check Referenced Articles for Comparison Baseline Models
-- [] Run a Fun Test Set
+- [X] Re-Check Referenced Articles for Comparison Baseline Models
+- [X] Run a Fun Test Set
 - [] Probability Spectrum Plot with Images
 - [] Plot average of each class?
-- []
-- []
-- []
