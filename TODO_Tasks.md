@@ -26,3 +26,4 @@
 - [X] Run a Fun Test Set
 - [] Probability Spectrum Plot with Images
 - [] Plot average of each class?
+- [] Save Models
