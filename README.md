@@ -21,7 +21,7 @@ In scenarios where only partial facial data is available (e.g., security, remote
 - After filtering and balancing: 5,182 images (2591 Male, 2591 Female)
 - Final input size: 56×56 RGB pixels
 
-<img src="Images/dataset.png" alt="Dataset Sample" width="250"/>
+<img src="Images/Dataset.png" alt="Dataset Sample" width="250"/>
 
 ---
 
@@ -121,4 +121,4 @@ Visualized feature space learned by DCNNs — clusters formed clearly by sex.
 
 ## Appendix
 
-Refer to [Appendix A](#appendixa) in the notebook for additional citations and resources.
+Refer to **Appendix A** in the notebook for additional citations and resources.
